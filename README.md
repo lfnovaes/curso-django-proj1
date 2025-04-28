@@ -1,1 +1,0 @@
-# curso-django-proj1
